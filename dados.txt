@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Ramon
+-Profissão: QA
+-Cidade: Santo André
+-O que faz nas horas vaga: Leio
+-Feedback sobre o curso Qualidade de Software: Ótimo
+-Feedback sobre a plataforma de estudo da EBAC: Boa
+
+Obrigado!!!
+
+
